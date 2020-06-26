@@ -1,6 +1,8 @@
 # Documentation
 This is a way to check pictures of people with face_recognition.
 
+![Result](https://github.com/dedidot/face-recognition-with-python-opencv/blob/master/Screen%20Shot%202020-06-26%20at%2016.06.44.png)
+
 **Quict Start**
 1. Clone repo, `git clone https://github.com/dedidot/face-recognition-with-python-opencv.git`
 2. install  `requirements.txt`  using  `pip install -r requirements.txt`
