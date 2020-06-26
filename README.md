@@ -53,6 +53,7 @@ for filename in os.listdir(UNKNOWN_FACES_DIR):
 	    
 	    cv2.rectangle(image, top_left, bottom_right, color, cv2.FILLED)
 	    cv2.putText(image, match, (face_location[3] +  10, face_location[2] +  15), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (200, 200, 200), FONT_THICKNESS)
+```
 
 **Show result:**
 
